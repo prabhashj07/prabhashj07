@@ -7,9 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="65px" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/prabhashj07)
-[<img align="left" alt="LinkedIn" width="75px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prabhashj07/)
-[<img align="left" alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/prabhashj07)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prabhashj07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhashj07) [![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=GitHub&logoColor=white)](https://github.com/prabhashj07)
+
 
 <br> 
 
@@ -40,5 +39,5 @@
 ### Github Stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhashj07&show_icons=true&theme=dark&locale=en&layout=compact" alt="prabhashj07" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhashj07&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhashj07&show_icons=true&locale=en&theme=dark" alt="prabhashj07" /></p>
