@@ -39,5 +39,5 @@
 ### Github Stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhashj07&show_icons=true&theme=dark&locale=en&layout=compact" alt="prabhashj07" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h3cksamrat&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhashj07&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhashj07&show_icons=true&locale=en&theme=dark" alt="prabhashj07" /></p>
