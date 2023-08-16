@@ -1,5 +1,5 @@
 # Hi 👋, I'm Prabhash Kumar Jha
-![visitors](https://img.shields.io/badge/dynamic/json?color=green&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fprabhashj07.prabhashj07%2Fvisits%2F)
+[![](https://visitcount.itsvg.in/api?id=prabhashj07&icon=0&color=0)](https://visitcount.itsvg.in)
 ### Computer Engineering Undergrad from Nepal
 
 - 🌱 I'm currently in the creative process of **crafting** my thoughts like an architect of ideas.
