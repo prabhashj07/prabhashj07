@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-Terraform-326CE5?style=flat&logo=Terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </div>
