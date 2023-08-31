@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-
 ### Github Stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhashj07&show_icons=true&theme=dark&locale=en&layout=compact" alt="prabhashj07" /></p>
