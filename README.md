@@ -1,4 +1,4 @@
-# Hi 👋, I'm Prabhash Kumar Jha
+# Hi 👋,I'm Prabhash Kumar Jha
 <img src="https://komarev.com/ghpvc/?username=prabhashj07&style=flat-square&color=blue" alt=""/>
 
 ### Computer Engineering Undergrad from Nepal
