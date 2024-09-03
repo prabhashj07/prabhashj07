@@ -3,7 +3,6 @@
 
 ### Computer Engineering Undergrad from Nepal
 
-- 🌱 I'm currently in the creative process of **crafting** my thoughts like an architect of ideas.
 - 📫 How to reach me **[prabhashj07@gmail.com](mailto:prabhashj07@gmail.com)**
 
 ### Connect with me:
