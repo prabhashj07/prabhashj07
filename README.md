@@ -1,7 +1,7 @@
 # Hi 👋,I'm Prabhash Kumar Jha
 <img src="https://komarev.com/ghpvc/?username=prabhashj07&style=flat-square&color=blue" alt=""/>
 
-Prabhash Kumar Jha is a passionate researcher with a strong focus on medical imaging, computer vision, generative AI, artificial intelligence, and machine learning.
+I'm a researcher with a strong focus on medical imaging, computer vision, generative AI, artificial intelligence, and machine learning. I am always eager to learn new machine learning algorithms and architectures, and to experiment with them on challenging datasets. I believe in the power of open-source software and actively contribute to machine learning libraries and frameworks.
 
 📫 How to reach me **[prabhashj07@gmail.com](mailto:prabhashj07@gmail.com)**
 
