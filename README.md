@@ -37,8 +37,3 @@ Prabhash Kumar Jha is a passionate researcher with a strong focus on medical ima
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </div>
-
-### Github Stats:
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhashj07&show_icons=true&theme=dark&locale=en&layout=compact" alt="prabhashj07" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhashj07&show_icons=true&locale=en&theme=dark" alt="prabhashj07" /></p>
