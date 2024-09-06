@@ -1,9 +1,9 @@
 # Hi 👋,I'm Prabhash Kumar Jha
 <img src="https://komarev.com/ghpvc/?username=prabhashj07&style=flat-square&color=blue" alt=""/>
 
-### Computer Engineering Undergrad from Nepal
+Prabhash Kumar Jha is a passionate researcher with a strong focus on medical imaging, computer vision, generative AI, artificial intelligence, and machine learning.
 
-- 📫 How to reach me **[prabhashj07@gmail.com](mailto:prabhashj07@gmail.com)**
+📫 How to reach me **[prabhashj07@gmail.com](mailto:prabhashj07@gmail.com)**
 
 ### Connect with me:
 
