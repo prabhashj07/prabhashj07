@@ -9,8 +9,6 @@ I'm a researcher with a strong focus on medical imaging, computer vision, genera
 
 [![Twitter](https://img.shields.io/twitter/follow/prabhashj07.svg?style=social)](https://twitter.com/prabhashj07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhash-kumar-jha-b2042023a/) [![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=GitHub&logoColor=white)](https://github.com/prabhashj07) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/prabhashkumarjha) [![Medium](https://img.shields.io/badge/-Medium-000000.svg?logo=Medium&logoColor=white)](https://medium.com/@prabhashj07)
 
-<br>
-
 ### Languages and Tools:
 
 [![My Skills](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat&logo=git&logoColor=white&labelColor=100303&color=4A154B)](https://shields.io)
