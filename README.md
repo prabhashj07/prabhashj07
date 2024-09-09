@@ -47,5 +47,4 @@ I'm a researcher with a strong focus on medical imaging, computer vision, genera
 | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabhashj07&theme=react-dark&hide_border=true&area=true) |
 | ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhashj07&theme=default) |
 | ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=prabhashj07&theme=matrix&no-frame=true&no-bg=true&margin-w=4) |
-
 <br>
