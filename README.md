@@ -1,4 +1,4 @@
-# Hi 👋,I'm Prabhash Kumar Jha
+# Hi 👋, I'm Prabhash Kumar Jha
 <img src="https://komarev.com/ghpvc/?username=prabhashj07&style=flat-square&color=blue" alt=""/>
 
 I'm a researcher with a strong focus on medical imaging, computer vision, generative AI, artificial intelligence, and machine learning. I am always eager to learn new machine learning algorithms and architectures, and to experiment with them on challenging datasets. I believe in the power of open-source software and actively contribute to machine learning libraries and frameworks.
@@ -7,16 +7,15 @@ I'm a researcher with a strong focus on medical imaging, computer vision, genera
 
 ### Connect with me:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prabhashj07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhash-kumar-jha-b2042023a/) [![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=GitHub&logoColor=white)](https://github.com/prabhashj07)
+[![Twitter](https://img.shields.io/twitter/follow/prabhashj07.svg?style=social)](https://twitter.com/prabhashj07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhash-kumar-jha-b2042023a/) [![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=GitHub&logoColor=white)](https://github.com/prabhashj07) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/prabhashkumarjha) [![Medium](https://img.shields.io/badge/-Medium-000000.svg?logo=Medium&logoColor=white)](https://medium.com/@prabhashj07)
 
-
-<br> 
+<br>
 
 ### Languages and Tools:
 
 [![My Skills](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat&logo=git&logoColor=white&labelColor=100303&color=4A154B)](https://shields.io)
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
@@ -37,3 +36,16 @@ I'm a researcher with a strong focus on medical imaging, computer vision, genera
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </div>
+
+### GitHub Stats:
+
+| Stats |
+| --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhashj07&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff&icon_color=0366d6&title_color=333) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhashj07&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&line_height=24&bg_color=ffffff&icon_color=0366d6&title_color=333) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhashj07&hide_title=true&hide_border=true&background=ffffff&stroke=000000&ring=0366d6&fire=ff4500&currStreakNum=000000&sideNums=000000&currStreakLabel=0366d6&sideLabels=0366d6) |
+| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabhashj07&theme=react-dark&hide_border=true&area=true) |
+| ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhashj07&theme=default) |
+| ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=prabhashj07&theme=matrix&no-frame=true&no-bg=true&margin-w=4) |
+
+<br>
