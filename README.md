@@ -40,7 +40,7 @@ I'm a researcher with a strong focus on medical imaging, computer vision, genera
 | Stats |
 | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhashj07&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff&icon_color=0366d6&title_color=333) |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhashj07&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&line_height=24&bg_color=ffffff&icon_color=0366d6&title_color=333) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhashj07&show_icons=true&hide_title=true&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered&include_all_commits=true&line_height=24&bg_color=ffffff&icon_color=0366d6&title_color=333) |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhashj07&hide_title=true&hide_border=true&background=ffffff&stroke=000000&ring=0366d6&fire=ff4500&currStreakNum=000000&sideNums=000000&currStreakLabel=0366d6&sideLabels=0366d6) |
 | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabhashj07&theme=react-dark&hide_border=true&area=true) |
 | ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhashj07&theme=default) |
