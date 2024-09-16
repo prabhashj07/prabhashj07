@@ -34,12 +34,3 @@ I'm a researcher with a strong focus on medical imaging, computer vision, genera
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </div>
-
-### GitHub Stats:
-
-| Stats |
-| --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhashj07&show_icons=true&hide_title=true&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered&include_all_commits=true&line_height=24&bg_color=ffffff&icon_color=0366d6&title_color=333) |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhashj07&hide_title=true&hide_border=true&background=ffffff&stroke=000000&ring=0366d6&fire=ff4500&currStreakNum=000000&sideNums=000000&currStreakLabel=0366d6&sideLabels=0366d6) |
-| ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=prabhashj07&theme=matrix&no-frame=true&no-bg=true&margin-w=4) |
-<br>
